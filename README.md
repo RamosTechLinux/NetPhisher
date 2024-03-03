@@ -1,7 +1,7 @@
 <!-- NetPhisher -->
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1185681370975051848/1185767830537392169/Picsart_23-12-16_23-17-24-762.jpg?ex=6590cf59&is=657e5a59&hm=158e108c2ec39da999e2def7e38bc939a2ce4bf242f9fe21150fcfcf28ecc614&=&format=webp&width=764&height=400">
+  <img src="https://media.discordapp.net/attachments/1211385670002675754/1213656726524399736/Picsart_23-12-16_23-17-24-762.jpg?ex=65f644e8&is=65e3cfe8&hm=379517c65401241f315cf7a0d8ee5849900efafd9d64d6b41098c20909356df7&=&format=webp&width=1440&height=756">
 </p>
 
 <p align="center"><b>An automated phishing tool with multiple updated website templates 2023.</b></p>
@@ -75,7 +75,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 <h3 align="center"><i> - Workflow - </i></h3>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1185681370975051848/1185789961224601630/lv_0_20231217004203.gif?ex=6590e3f5&is=657e6ef5&hm=419081480be10e3dc70fa11cca4b14bac2eb4c9c5559f7d28f8388a1aea40152&=&width=578&height=400"/>
+<img src="https://media.discordapp.net/attachments/1211385670002675754/1213656726851813386/lv_0_20231217004203.gif?ex=65f644e8&is=65e3cfe8&hm=75a5a2c05dc6c85c4f23b4539bf1e6ee8d0dedfd47dd2040af48ce36effdec96&=&width=1122&height=777"/>
 </p>
 
 <!-- // -->
